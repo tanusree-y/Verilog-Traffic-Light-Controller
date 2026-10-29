@@ -91,6 +91,9 @@ The algorithmic state transitions and routing conditions are structured as follo
 
 The design has been strictly validated via RTL Behavioral Simulation snapshots within the **Xilinx Vivado Simulator (XSIM)**. 
 
+## Simulation Output Waveform
+![TrafficLightController Waveform](TLC.png)
+
 ### Waveform Inspection Guidelines
 1. Launch Xilinx Vivado and open the tracking project link (`TrafficLightController.xpr`).
 2. Navigate to the `Simulation Sources` folder structure in the Hierarchy viewer.
