@@ -1,0 +1,8 @@
+*.log
+*.jou
+*.str
+.Xil/
+*.dir/
+TrafficLightController.cache/
+TrafficLightController.hw/
+TrafficLightController.ip_user_files/
